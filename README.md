@@ -10,6 +10,7 @@
 
 ## Technologies Used:
 
+- Grid Layout
 - HTML
 - CSS
 - Bootstrap
