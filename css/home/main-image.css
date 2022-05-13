@@ -1,0 +1,14 @@
+.main-image {
+  background-image: url('/img/g_1.jpg');
+  height: 25rem;
+  margin-bottom: 1.875rem;
+  position: relative;
+}
+
+.main-image-info {
+  background-color: #fff;
+  bottom: 1.56rem;
+  left: 1.56rem;
+  padding: 1.56rem;
+  position: absolute;
+}

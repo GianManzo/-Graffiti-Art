@@ -1,0 +1,31 @@
+#img2 {
+  background-image: url('/img/g_2.jpg');
+}
+#img3 {
+  background-image: url('/img/g_3.jpg');
+}
+#img4 {
+  background-image: url('/img/g_4.jpg');
+}
+#img5 {
+  background-image: url('/img/g_5.jpg');
+}
+#img6 {
+  background-image: url('/img/g_6.jpg');
+}
+
+#gallery-container h1 {
+  text-align: center;
+}
+
+#gallery-container h1,
+#gallery-container .col-xs-12,
+#gallery-container .col-md-6,
+#gallery-container .col-sm-6 {
+  margin-bottom: 3.125rem;
+}
+
+.small-image-container {
+  height: 15.625rem;
+  margin-bottom: 1.25rem;
+}

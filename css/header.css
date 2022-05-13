@@ -1,0 +1,36 @@
+#header {
+  padding: 1.25rem;
+  text-align: center;
+}
+
+#header p {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 0;
+  padding-bottom: 1.25rem;
+}
+
+#logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+#logo {
+  margin-right: 0.9375rem;
+  width: 2.5rem;
+}
+
+/* NAV-BAR */
+
+#navbar {
+  margin: 0.625rem auto;
+  padding: 0.625rem;
+}
+
+#navbar a {
+  color: #444;
+  width: 5rem;
+}
+
+#navbar a:hover {
+  color: #c1b696;
+}
